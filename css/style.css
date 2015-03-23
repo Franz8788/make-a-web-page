@@ -1,0 +1,52 @@
+
+
+.mainsections {
+background-color: #D9DEDB;
+width: 960px;
+padding: 25px;
+border: 0px;
+margin: 25px;
+}
+
+.iloveheadings {
+background-color: #D9DEDB;
+width: 240px;
+padding: 0px;
+border: 0px;
+margin: 25px;
+}
+
+
+
+
+
+.iloveboxes {
+width: 500px;
+padding: 5px;
+border: 2px solid black;
+margin: 5px;
+}
+
+
+
+
+span {
+background-color: #DCED21;
+}
+h1{
+color: #F2440F;
+}
+
+h2{
+color: #F5B60A;
+}
+
+h3{
+color: #1717E8;
+}
+
+h4{
+color: #0BA339;
+}
+
+
